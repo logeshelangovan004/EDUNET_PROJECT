@@ -41,7 +41,7 @@ Prompts for the password to decode the message.
 Validates the password using SHA-256 hashing.
 Extracts and displays the hidden message.
 
-### Presentation (Steganography.pptx):
+### Presentation (Stegnography.pptx):
 
 A detailed presentation explaining the project workflow, encryption, and decryption processes.
 
