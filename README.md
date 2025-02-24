@@ -17,7 +17,7 @@ logeshelangovan2004@gmail.com
 Velalar College of Engineering and Technology, Thindal, Tamil Nadu
 
 ### Internship Duration: 
-January 15, 2024 - February 26, 2024
+January 15, 2025 - February 26, 2025
 
 ### Repository Name: 
 EDUNET_PROJECT
