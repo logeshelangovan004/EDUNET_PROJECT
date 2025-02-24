@@ -54,3 +54,11 @@ An example image with an embedded hidden message.
 ### OpenCV
 ### Hashlib
 
+##  Cloning the Repository
+### #Clone the repository to your local machine
+
+git clone https://github.com/YourUsername/Edunet_Project.git
+
+### #Navigate to the cloned repository
+
+cd Edunet_Project
